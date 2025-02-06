@@ -6,4 +6,4 @@ tensorboard
 matplotlib
 streamlit
 scikeras
-keras
+keras==2.16.1
